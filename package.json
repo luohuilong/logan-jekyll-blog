@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/luohuilong/luohuilong.github.com.git"
+    "url": "git@github.com:luohuilong/logan-jekyll-blog.git"
   },
   "keywords": [
     "github"
@@ -16,7 +16,7 @@
   "author": "luohuilong",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/luohuilong/luohuilong.github.com/issues"
+    "url": "https://github.com/luohuilong/logan-jekyll-blog/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.2",

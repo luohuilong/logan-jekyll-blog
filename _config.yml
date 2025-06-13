@@ -3,7 +3,7 @@
 # --------------- #
 url: https://notes.wait.loan
 # 使用baseurl，会整站 /xxx 作为跟目录
-base_url: 
+base_url: /blog
 blogroot: https://notes.wait.loan
 cdnroot: 
 blogname: 云帆博客
