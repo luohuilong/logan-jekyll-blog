@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "图床方案Cloudflare Pages+R2+KV"
-date:   2025-05-23 09:35:18 +0800
-categories: 网络日志
-tags: CloudFlare-ImgBed kv r2 pages
-author: LuoHuiLong
+title: 图床方案Cloudflare Pages+R2+KV
+category: 网络日志
+tags: 
+    - CloudFlare-ImgBed 
+    - kv 
+    - r2 
+    - pages
 excerpt: 最近一直在探索各种图床方案，本文想讲的Cloudflare Pages+R2+KV方案，是借助github上这个CloudFlare-ImgBed开源项目，部署在cloudflare pages上顺带也解决了存储筒和数据库的烦恼。
 ---
-
-* content
-{:toc}
 
 ### 前言 ###
 

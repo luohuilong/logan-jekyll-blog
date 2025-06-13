@@ -1,16 +1,11 @@
 ---
 layout: post
-title:  "qBittorrent 参数详细设置教程"
-date:   2025-06-08 08:07:18 +0800
-categories: 网络日志
-tags: qBittorrent
-author: LuoHuiLong
+title: qBittorrent 参数详细设置教程
+category: 网络日志
+tags: 
+    - qBittorrent
 excerpt: 全文将以目前的最新版v4.3.7为例，进行参数设置，老版本某些功能不太一致，请知悉。
 ---
-
-* content
-{:toc}
-
 
 全文将以目前的最新版v4.3.7为例，进行参数设置，老版本某些功能不太一致，请知悉。
 

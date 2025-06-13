@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "htaccess使用方法总结"
-date:   2017-05-08 08:07:18 +0800
-categories: 网络日志
-tags: apache htaccess
-author: LuoHuiLong
+title: htaccess使用方法总结
+category: 网络日志
+tags: 
+    - apache
+    - htaccess
 excerpt: 简单介绍.htaccess的使用方法，对于初学很有帮助，包括我自己,嘿嘿..!
 ---
-
-* content
-{:toc}
 
 在利用.htaccess的Rewrite规则实现Discuz论坛的伪静态链接中已经提到过了.htaccess的重定向的使用，这里让我们来比较全面的了解一下.htaccess吧。
 

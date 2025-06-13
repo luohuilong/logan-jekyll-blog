@@ -1,17 +1,12 @@
 ---
 layout: post
-title:  "Apache+WordPress部署SSL "
-date:   2016-10-08 08:07:18 +0800
+title: Apache+WordPress部署SSL
 category: 网络日志
 tags: 
     - wordpress 
     - apache
-author: LuoHuiLong
 excerpt: 国际著名Wordpress博客程序开启ssl的设置，重定向，后台强制https，不修改数据库设置站内链接支持ssl
 ---
-
-* content
-{:toc}
 
 ### 开启https访问 域名301重定向 ###
 

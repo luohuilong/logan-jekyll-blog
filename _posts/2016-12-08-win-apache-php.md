@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  "Windows下apache+php搭建过程"
-date:   2016-12-08 08:07:18 +0800
-categories: 网络日志
-tags: apache php
-author: LuoHuiLong
+title: Windows下apache+php搭建过程
+category: 网络日志
+tags: 
+    - apache 
+    - php
 excerpt: 简单说说Windows下apache+php的搭建
 ---
-
-* content
-{:toc}
 
 近来比较清闲，经理让我研究研究php！于是就开始看了。。。  第一次使用php，第一次使用apache，以前都是用的tomcat。。。
 

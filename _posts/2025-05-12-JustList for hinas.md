@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "JustList for hinas"
-date:   2025-05-12 09:07:18 +0800
-categories: 网络日志
-tags: hinas 海纳思 天翼云盘
-author: LuoHuiLong
+title: JustList for hinas
+category: 网络日志
+tags: 
+    - hinas 
+    - 海纳思 
+    - 天翼云盘
 excerpt: 一个简易且便利的【天翼云盘】列表程序
 ---
-
-* content
-{:toc}
 
 ### 一个简易且便利的【天翼云盘】列表程序 ###
 
