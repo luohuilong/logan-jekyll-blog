@@ -16,7 +16,6 @@
   <div class="entry_cont">
     {{ post.excerpt }}
     {% if post.content.size > post.excerpt.size %}
-    <p><strong><a href="{{ site.url }}{{ post.url }}">(Read more ...)</a></strong></p>
     {% endif %}
   </div>
   <p class="entry_data">
@@ -29,7 +28,6 @@
   </span>
   <br />
   {% endif %}
-  &lt;&lt;&lt; EOF
   <br />
   </p>
 {% else %}
@@ -59,7 +57,6 @@
   </span>
   <br />
   {% endif %}
-  &lt;&lt;&lt; EOF
   <br />
   </p>
 {% endif %}
