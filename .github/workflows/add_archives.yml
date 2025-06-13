@@ -9,8 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Jekyll Blog Archive
-        uses: nunumick/jekyll-blog-archive-workflow@v1.0.0
+      - name: logan jekyll blog
+        uses: luohuilong/logan-jekyll-blog-workflow@v1.0.0
         with:
           archive_url: "https://notes.wait.loan/archivedata"
           archive_folder_path: "_archives"

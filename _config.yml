@@ -3,7 +3,7 @@
 # --------------- #
 url: https://notes.wait.loan
 # 使用baseurl，会整站 /xxx 作为跟目录
-base_url: /blog
+base_url: 
 blogroot: https://notes.wait.loan
 cdnroot: 
 blogname: 云帆博客
@@ -18,7 +18,7 @@ gads: #ca-pub-3058445836660656
 # --------------- #
 markdown: kramdown
 highlighter: rouge
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 exclude: [Gemfile, Gemfile.lock, node_modules, Gruntfile.js, README.md, package.json]
 excerpt_separator: <!--more-->
 plugins:
@@ -28,7 +28,7 @@ plugins:
   - jekyll-sitemap
 # - jekyll-webp
 paginate: 5
-paginate_path: /blog/page:num/
+paginate_path: /page:num/
 
 # Markdown Processors
 kramdown:
@@ -45,8 +45,8 @@ jekyll-archives:
     category: archive-categories-local
     tag: archive-tags-local
   permalinks:
-    tag: /blog/tags/:name/
-    category: /blog/categories/:name/
+    tag: /tags/:name/
+    category: /categories/:name/
 
 # Custom Archives
 # archives: github archives workflow
@@ -54,10 +54,10 @@ jekyll-archives:
 collections:
   archives:
     output: true
-    permalink: /blog/:path/
+    permalink: /:path/
   lists:
     output: true
-    permalink: /blog/:path/
+    permalink: /:path/
 
 # Sitemap exclusion
 # https://jekyllrb.com/docs/configuration/front-matter-defaults/
