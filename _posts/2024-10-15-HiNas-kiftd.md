@@ -130,7 +130,7 @@ sudo systemctl enable kiftd.service
 或者使用原生后台运行关闭中断不影响
 `nohup java -jar kiftd-xxx-xxx.jar -start & echo $!`
 
-[kiftd说明文档].PDF[1]
+[kiftd说明文档.PDF][1]
 
 
   [1]: https://r2.wait.loan/uploads/attach/kiftd.pdf
