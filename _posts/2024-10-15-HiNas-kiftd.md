@@ -7,6 +7,11 @@ tags:
 excerpt: 本文最初是因为看到了这篇帖子： https://www.right.com.cn/forum/thread-8260837-1-1.html，但是发现那个镜像在window上可以正常运行，但是在盒子上无法访问的情况，因此决定记录直接部署kiftd到ARM设备上的操作方法
 ---
 
+<object data="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf" type="application/pdf" width="100%" height="480px">
+    <embed src="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf" />
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf">Download PDF</a>.</p>
+</object>
+
 **前言**
 
 本文最初是因为看到了这篇帖子： https://www.right.com.cn/forum/thread-8260837-1-1.html
@@ -129,8 +134,3 @@ sudo systemctl enable kiftd.service
 
 或者使用原生后台运行关闭中断不影响
 `nohup java -jar kiftd-xxx-xxx.jar -start & echo $!`
-
-<object data="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf" type="application/pdf" width="100%" height="480px">
-    <embed src="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf" />
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{site.blogroot}}/assets/doc/kiftd说明文档.pdf">Download PDF</a>.</p>
-</object>
