@@ -130,7 +130,7 @@ sudo systemctl enable kiftd.service
 或者使用原生后台运行关闭中断不影响
 `nohup java -jar kiftd-xxx-xxx.jar -start & echo $!`
 
-<object data="{{site.blogroot}}/assets/doc/kiftd.pdf" type="application/pdf" width="100%" height="480px">
-    <embed src="{{site.blogroot}}/assets/doc/kiftd.pdf" />
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="{{site.blogroot}}/assets/doc/kiftd.pdf">Download PDF</a>.</p>
+<object data="https://r2.wait.loan/uploads/attach/kiftd.pdf" type="application/pdf" width="100%" height="480px">
+    <embed src="https://r2.wait.loan/uploads/attach/kiftd.pdf" />
+    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://r2.wait.loan/uploads/attach/kiftd.pdf">Download PDF</a>.</p>
 </object>
